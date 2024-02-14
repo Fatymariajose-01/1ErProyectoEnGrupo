@@ -3,5 +3,5 @@
 ##Integrantes
 
 + Fátima Tzoc
-+ Henry Días
++ Henry Díaz
 + Jimmy Quevedo
