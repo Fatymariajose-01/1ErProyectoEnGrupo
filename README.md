@@ -3,8 +3,9 @@
 
 <sub>Pequeñas ediciones</sub>
 :grinning:
-[Aquí un link sobre como usar markdown](!https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-##Integrantes
+[Aquí un link sobre como usar markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Integrantes
 
 + Fátima Tzoc
 + Henry Díaz
